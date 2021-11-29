@@ -2,7 +2,7 @@
 - I try **learn to code**, because I love it how's thing happening around this;
 - In fact I love various areas around the **"computer world"**, things like video games, operacional system, hardware, software and web development and more;
 - I'm currently learning to code;
-- If u know about some important content about programming laguange, pls send to me!
+- If u know some important content about programming laguange, pls send to me!
 
 > I'm working on my english :closed_book: so... it's not good yet.
 
