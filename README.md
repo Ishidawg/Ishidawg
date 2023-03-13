@@ -1,17 +1,20 @@
-## Ishidaw - readme
+# Hi! I'm Ishidaw 👋
+## | Game modder 🎮 | On road to code 👨‍💻 | Designer 🖼️ |
 
-- Hi! I'm @Ishidawg or only **Ishidaw**;
-- I try **learn to code**, because I love it how's thing happening around this;
-- In fact I love various areas around the **"computer world"**, things like video games, operacional system, hardware, software and web development and more;
-- I'm currently learning to code;
-- If u know some important content about programming laguange, pls send to me!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ishidaw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ishidaw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ishidaw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Ishidaw-pic" src="https://cdn.discordapp.com/attachments/524370625167491073/1084864104478556172/duknow.png">
+</div>
 
-> I'm working on my english :closed_book: so... it's not good yet.
+##
 
-> August 2021 - Learning JS 📜
+<div> 
+  <a href="https://www.youtube.com/@ishidaw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ishidaw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/fK2f3ypkTS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:willianscagol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
 
-
-<!---
-Ishidawg/Ishidawg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
