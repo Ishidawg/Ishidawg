@@ -6,7 +6,7 @@
   <img align="center" alt="Ishidaw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ishidaw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ishidaw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ishidaw-pic" src="https://cdn.discordapp.com/attachments/524370625167491073/1114350478021623909/duknow-github.png">
+  <!--<img align="right" alt="Ishidaw-pic" src="https://cdn.discordapp.com/attachments/524370625167491073/1114350478021623909/duknow-github.png">-->
 </div>
 
 ##
