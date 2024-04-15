@@ -1,5 +1,5 @@
 # Hi! I'm Willian 👋
-## | Game modder 🎮 | On road to code 👨‍💻 | Designer 🖼️ |
+## | Game modder 🎮 | Developer 👨‍💻 | Designer 🖼️ |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ishidaw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
