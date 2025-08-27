@@ -1,18 +1,18 @@
-# Hi! I'm Willian 👋
-## | Game modder 🎮 | Developer 👨‍💻 | Designer 🖼️ |
+<table align="center">
+  <tr>
+    <td>
+      <div align="justify">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ishidaw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ishidaw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ishidaw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ishidaw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ishidaw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="right" alt="Ishidaw-pic" src="https://cdn.discordapp.com/attachments/524370625167491073/1114350478021623909/duknow-github.png">-->
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1BC82D&width=435&separator=%3C&lines=printf(%22Hello+there!+I'm+Willian%22);)](https://git.io/typing-svg)      
+**Software Engineer**, currently studying and working with `C`, `Java`, and `C++`. My goal is to become **proficient in OpenGL** and eventually build my own **game engine**. I also work with `Java (Spring, JavaFX)`, `JavaScript/TypeScript`, `React` with `Vite` or `Next.js`, and `Python`.
 
-##
 
-<div> 
- <a href="https://discord.gg/fK2f3ypkTS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:willianscagol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
+<p>My personal projects are pretty <i>wide-covering</i>. Sometimes I make a game in a language whose <i>syntax I struggle with</i>, build websites to learn a <i>new component library</i>, or even create <i>APIs</i> to avoid getting <i><span style="color: #F55331">rusty</span></i>. One of my bigger passion projects is <i>creating video game mods</i>. You can see some of them on my <i><a href="https://next.nexusmods.com/profile/Ishidaw/mods" target="_blank"/>NexusMods profile</a><i>.</p>
+
+You can also find me on LinkedIn.
+
+<a href="https://www.linkedin.com/in/williancagol/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon" height="23" alt="LinkedIn"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
